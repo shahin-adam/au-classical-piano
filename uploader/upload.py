@@ -1,4 +1,4 @@
-"""AU Classical Piano Uploader - complete upload script.
+"""AU Piano Uploader - complete upload script.
 
 Uploads one of the owner's own finished videos to the owner's own channel, sets its thumbnail,
 adds it to a playlist and reads the result back to confirm it published correctly.
